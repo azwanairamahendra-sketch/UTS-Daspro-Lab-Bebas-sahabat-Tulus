@@ -7,6 +7,7 @@ Daftar Anggota Kelompok
  * Nama: Tessa Monica Tinambunan | NIM: 261401079 | KOM: B | Lab: 4
  * Nama: Azwa Naira Salsabila Dalimunthe | NIM: 261401016 | KOM: B | Lab: 3
  * Nama: Maria Cinta Murni Zai | NIM: 261401090 | KOM: B | Lab: 4
+   
 Fitur-Fitur Utama & Logika Program
  * Menu Interaktif (Repeat-Until):
    * Menggunakan struktur perulangan repeat-until pada menu utama agar program terus berjalan hingga pengguna memilih opsi keluar.
