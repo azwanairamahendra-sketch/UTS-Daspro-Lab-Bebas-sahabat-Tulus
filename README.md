@@ -1,6 +1,7 @@
 # UTS-Daspro-Lab-Bebas-sahabat-Tulus
 Judul Proyek : Smart Cash
 Deskripsi Singkat : Proyek UTS Dasar Pemrograman: Smart Cash
+
 Deskripsi Singkat
 Smart Cash adalah aplikasi kasir digital berbasis teks menggunakan bahasa pemrograman Pascal. Program ini dirancang untuk memudahkan proses penghitungan total belanja, penerapan diskon otomatis berdasarkan besaran nominal belanja, serta dilengkapi dengan menu interaktif dan kontrol perulangan.
 
